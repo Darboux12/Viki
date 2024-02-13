@@ -1,27 +1,34 @@
 {
   "files": {
     "main.css": "/Viki/static/css/main.933d5cad.css",
-    "main.js": "/Viki/static/js/main.bbc7641f.js",
+    "main.js": "/Viki/static/js/main.4e9c0a26.js",
     "static/media/italo.png": "/Viki/static/media/italo.83c70e5c8f7733652fc8.png",
     "static/media/lazy.png": "/Viki/static/media/lazy.a60b1c3f2f657b4f0ff9.png",
     "static/media/spoon.png": "/Viki/static/media/spoon.3ff6fefeba607dfa9c6c.png",
     "static/media/Home.jpeg": "/Viki/static/media/Home.f1d5afe809ed7feaa29f.jpeg",
     "static/media/dzibi.jpg": "/Viki/static/media/dzibi.6d202e91cb7b160a64e4.jpg",
-    "static/media/raniuszek.jpg": "/Viki/static/media/raniuszek.bd0b64562571f6302fd4.jpg",
+    "static/media/raniuszek.jpg": "/Viki/static/media/raniuszek.4a8971f27f044ecadf16.jpg",
+    "static/media/left.jpg": "/Viki/static/media/left.f6585312ee5369b9bd6b.jpg",
+    "static/media/right.jpg": "/Viki/static/media/right.76e27eb4dc9ab9986a43.jpg",
+    "static/media/up.jpg": "/Viki/static/media/up.c134fbb08c269d837371.jpg",
+    "static/media/tired.jpg": "/Viki/static/media/tired.4ded64ca45744c906ca0.jpg",
+    "static/media/trawa.jpg": "/Viki/static/media/trawa.350652a254e661a5638e.jpg",
+    "static/media/maupa.jpg": "/Viki/static/media/maupa.f08b8f5a543f80ed421c.jpg",
     "static/media/logo.jpg": "/Viki/static/media/logo.92ccd13b0afc62da9d22.jpg",
-    "static/media/trawa.jpg": "/Viki/static/media/trawa.b3580660ab08c8efa97c.jpg",
+    "static/media/zamonka.jpg": "/Viki/static/media/zamonka.2d49d950354769fb9e4d.jpg",
     "static/media/szakipijo.jpg": "/Viki/static/media/szakipijo.71756566b2de3ccb70a1.jpg",
     "static/media/appa.jpg": "/Viki/static/media/appa.0554203e93013110b6ea.jpg",
+    "static/media/somuch.jpg": "/Viki/static/media/somuch.651d04157e4f7b83e699.jpg",
     "static/media/hehe.jpg": "/Viki/static/media/hehe.efef0d363211dfc10c1d.jpg",
     "static/media/rycerz.jpg": "/Viki/static/media/rycerz.f975506dd8e8ad36b882.jpg",
-    "static/media/smuta.jpg": "/Viki/static/media/smuta.ce7f4ac3eeea44c5e73d.jpg",
+    "static/media/smuta.jpg": "/Viki/static/media/smuta.77035e4a2f4215798350.jpg",
     "static/media/foczka.webp": "/Viki/static/media/foczka.cb967068466ed5f1b56e.webp",
     "index.html": "/Viki/index.html",
     "main.933d5cad.css.map": "/Viki/static/css/main.933d5cad.css.map",
-    "main.bbc7641f.js.map": "/Viki/static/js/main.bbc7641f.js.map"
+    "main.4e9c0a26.js.map": "/Viki/static/js/main.4e9c0a26.js.map"
   },
   "entrypoints": [
     "static/css/main.933d5cad.css",
-    "static/js/main.bbc7641f.js"
+    "static/js/main.4e9c0a26.js"
   ]
 }
